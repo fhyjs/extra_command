@@ -1,0 +1,50 @@
+/reload
+/string from block 102 -55 -27 w e
+/reload
+/string from wwww
+/reload
+/string from wwww
+/reload
+/string wwww
+/reload
+/string from block 102 -55 -27 w
+/string from block 102 -55 -27 w tostring
+/return fail
+/string from block 102 -55 -27 w tostring
+/reload
+/string from entity @s "w"
+/string
+/string e fe rwa
+/reload
+/string to e from 3
+/reload
+/string
+/reload
+/string from w to r
+/reload
+/string from w
+/string from w to t
+/reload
+/string from w to t
+/reload
+/string from ww to
+/reload
+/string from ww to s tostring
+/string from w to e tostring
+/reload
+/string a1 a2 b1 b2 tostring
+/data modify storage a1 a2 set value ["w","3","2"]
+/string a1 a2 b1 b2 tostring
+/data get storage minecraft:b1
+/string a1 a2 b1 b2 tostring
+/data get storage minecraft:b1
+/string a1 a2 b1 b2 tostring
+/data get storage minecraft:a1
+/string a1 a2 b1 b2 tostring
+/data get storage minecraft:b1
+/string a1 a2 a1 b2 tostring
+/data get storage minecraft:b1
+/data get storage minecraft:a1
+/reload
+/string a1 a2 operation a2 tostring
+/data get storage minecraft:a1

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "quilt_loader": {
+    "group": "org.eu.hanana.reimu.mc.extra_cmd",
+    "id": "extra_command",
+    "version": "1.0.0",
+    "metadata": {
+      "name": "extra command",
+      "description": "Add more commands to Minecraft!",
+      "contributors": {
+        "hanana": "Author"
+      },
+      "icon": "assets/extra_command/icon.png"
+    },
+    "intermediate_mappings": "net.fabricmc:intermediary",
+    "entrypoints": {
+      "init": [
+        "org.eu.hanana.reimu.mc.extra_cmd.quilt.ExampleModQuilt"
+      ]
+    },
+    "depends": [
+      {
+        "id": "quilt_loader",
+        "version": "*"
+      },
+      {
+        "id": "quilt_base",
+        "version": "*"
+      },
+      {
+        "id": "minecraft",
+        "version": ">=1.21"
+      },
+      {
+        "id": "architectury",
+        "version": ">=13.0.2"
+      }
+    ]
+  },
+  "mixin": [
+    "extra_command.mixins.json"
+  ]
+}

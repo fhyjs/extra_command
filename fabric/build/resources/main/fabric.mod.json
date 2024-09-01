@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "extra_command",
+  "version": "1.0.0",
+  "name": "extra command",
+  "description": "Add more commands to Minecraft!",
+  "authors": [
+    "HANANA"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/extra_command/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "org.eu.hanana.reimu.mc.extra_cmd.fabric.ExampleModFabric"
+    ],
+    "client": [
+      "org.eu.hanana.reimu.mc.extra_cmd.fabric.client.ExampleModFabricClient"
+    ]
+  },
+  "mixins": [
+    "extra_command.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.3",
+    "minecraft": "~1.21",
+    "java": ">=21",
+    "architectury": ">=13.0.2",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

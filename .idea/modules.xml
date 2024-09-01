@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/extra_command.iml" filepath="$PROJECT_DIR$/.idea/modules/extra_command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/extra_command.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/extra_command.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/extra_command.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/extra_command.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/extra_command.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/extra_command.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/extra_command.fabric.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/extra_command.fabric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric-like/extra_command.fabric-like.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric-like/extra_command.fabric-like.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric-like/extra_command.fabric-like.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric-like/extra_command.fabric-like.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric-like/extra_command.fabric-like.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric-like/extra_command.fabric-like.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/extra_command.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/extra_command.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/extra_command.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/extra_command.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/extra_command.neoforge.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/extra_command.neoforge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/extra_command.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/extra_command.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/extra_command.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/extra_command.neoforge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quilt/extra_command.quilt.iml" filepath="$PROJECT_DIR$/.idea/modules/quilt/extra_command.quilt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quilt/extra_command.quilt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/quilt/extra_command.quilt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quilt/extra_command.quilt.test.iml" filepath="$PROJECT_DIR$/.idea/modules/quilt/extra_command.quilt.test.iml" />
+    </modules>
+  </component>
+</project>
