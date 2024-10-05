@@ -7,6 +7,7 @@ import net.minecraft.commands.CommandBuildContext;
 import net.minecraft.commands.CommandSourceStack;
 import net.minecraft.commands.Commands;
 import org.eu.hanana.reimu.mc.extra_cmd.commands.StringCommand;
+import org.eu.hanana.reimu.mc.extra_cmd.network.NetworkRegister;
 import org.eu.hanana.reimu.mc.lcr.CommandManager;
 import org.eu.hanana.reimu.mc.lcr.events.LegacyCommandRegistrationEvent;
 
@@ -20,5 +21,6 @@ public class ExtraCommandMod {
                 commandManager.register(new StringCommand());
             }
         });
+        NetworkRegister.register();
     }
 }

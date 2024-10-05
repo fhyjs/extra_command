@@ -64,10 +64,16 @@ public class StringCommand extends CommandBase {
         } else if (args[5].equals("todouble")){
             String string = input.get(0).getAsString();
             outputPath.set(output, DoubleTag.valueOf(Double.parseDouble(string)));
-        }
-        else if (args[5].equals("tobyte")){
+        } else if (args[5].equals("tobyte")){
             String string = input.get(0).getAsString();
             outputPath.set(output, ByteTag.valueOf(Byte.parseByte(string)));
+        } else if (args[5].equals("length")) {
+            String string = input.get(0).getAsString();
+            commandSourceStack.sendSuccess(()->Component.literal(String.valueOf(string.length())),true);
+            return string.length();
+        } else if (args[5].equals("runascmd")) {
+            String string = input.get(0).getAsString();
+            commandSourceStack.getServer().getCommands().performPrefixedCommand(commandSourceStack,string);
         }
         return 0;
     }
@@ -101,7 +107,7 @@ public class StringCommand extends CommandBase {
             player.sendSystemMessage(Component.literal("The §2path§f of §2output§f value."));
             return string;
         }else if (args.length==6){
-            return cycleTabSuggestion(player,args,new String[]{}, true);
+            return cycleTabSuggestion(player,args,new String[]{"tostring","toarray","mergearray","toint","tofloat","todouble","tobyte","length","runascmd"}, true);
         }
         return super.getSuggestion(string, player);
     }
