@@ -38,6 +38,9 @@ subprojects {
            name = 'ParchmentMC'
            url = 'https://maven.parchmentmc.org'
         }
+        maven {
+            url = 'https://repsy.io/mvn/fhyjs/legacy_command_registry'
+        }
     }
 
     loom {

@@ -81,5 +81,10 @@
       <option name="name" value="maven3" />
       <option name="url" value="https://maven.quiltmc.org/repository/release/" />
     </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="https://repsy.io/mvn/fhyjs/legacy_command_registry" />
+    </remote-repository>
   </component>
 </project>

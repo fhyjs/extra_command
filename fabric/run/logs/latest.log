@@ -1,7 +1,6 @@
-[19:24:41] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21 with Fabric Loader 0.16.3
-[19:24:41] [ForkJoinPool-1-worker-3/WARN] (FabricLoader/Metadata) Mod fabricloader 0.16.3 references missing nested jars: [net.fabricmc.loader.impl.metadata.V1ModMetadata$JarEntry@4cb724ea]
-[19:24:41] [main/INFO] (FabricLoader) Loading 58 mods:
-	- architectury 13.0.2
+[18:17:31] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21 with Fabric Loader 0.16.5
+[18:17:32] [main/INFO] (FabricLoader) Loading 59 mods:
+	- architectury 13.0.6
 	- extra_command 1.0.0
 	- fabric-api 0.102.0+1.21
 	- fabric-api-base 0.4.42+6573ed8cd1
@@ -53,123 +52,384 @@
 	- fabric-sound-api-v1 1.0.23+6573ed8cd1
 	- fabric-transfer-api-v1 5.1.16+3dccd343d1
 	- fabric-transitive-access-wideners-v1 6.1.0+176f9036d1
-	- fabricloader 0.16.3
-	- generated_c7e6259 1.0.0
-	- generated_e577b8b 1.0.0
+	- fabricloader 0.16.5
+	- generated_7d3f430 1.0.0
+	- generated_8204591 1.0.0
 	- java 21
+	- legacy_command_registry 1.1.0
 	- minecraft 1.21
 	- mixinextras 0.4.1
-[19:24:42] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/a/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/2af2f021d8e02a0220dc27a7a72b4666d66d44ca/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
-[19:24:42] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[19:24:42] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
-[19:24:42] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
-[19:24:44] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[19:24:46] [Datafixer Bootstrap/INFO] (Minecraft) 226 Datafixer optimizations took 625 milliseconds
-[19:24:59] [Render thread/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:24:59] [Render thread/INFO] (Minecraft) Setting user: Player613
-[19:25:00] [Render thread/INFO] (NetworkManagerImpl) Registering S2C receiver with id architectury:spawn_entity_packet
-[19:25:00] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
-[19:25:01] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.3-snapshot
-[19:25:03] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-gametest-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader
-[19:25:04] [Worker-Main-8/INFO] (Minecraft) Found unifont_all_no_pua-15.1.05.hex, loading
-[19:25:04] [Worker-Main-1/INFO] (Minecraft) Found unifont_jp_patch-15.1.05.hex, loading
-[19:25:06] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:item.goat_horn.play
-[19:25:06] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:entity.goat.screaming.horn_break
-[19:25:06] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on PH27QA2 (NVIDIA High Definition Audio)
-[19:25:06] [Render thread/INFO] (Minecraft) Sound engine started
-[19:25:06] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
-[19:25:06] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[19:25:06] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[19:25:06] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[19:25:06] [Render thread/INFO] (Minecraft) Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[19:25:06] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[19:25:06] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[19:25:06] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[19:25:06] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[19:25:07] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
-[19:25:07] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
-[19:25:07] [Render thread/INFO] (Minecraft) Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[19:25:07] [Render thread/INFO] (Minecraft) Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
-[19:25:07] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
-[19:25:07] [Render thread/WARN] (Minecraft) Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
-[19:25:13] [Render thread/INFO] (Minecraft) Loaded 1290 recipes
-[19:25:13] [Render thread/INFO] (Minecraft) Loaded 1399 advancements
-[19:25:14] [Render thread/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 64 new biomes in 1.768 ms
-[19:25:14] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.21
-[19:25:14] [Server thread/INFO] (Minecraft) Generating keypair
-[19:25:14] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
-[19:25:14] [Render thread/INFO] (Minecraft) 准备生成区域中：0%
-[19:25:14] [Render thread/INFO] (Minecraft) Time elapsed: 373 ms
-[19:25:15] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
-[19:25:15] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
-[19:25:16] [Server thread/INFO] (Minecraft) Player613[local:E:b8064f6e] logged in with entity id 14 at (107.63392888113276, -53.46415937495544, -29.626239398043168)
-[19:25:16] [Server thread/INFO] (Minecraft) Player613加入了游戏
-[19:25:16] [Render thread/INFO] (Minecraft) Loaded 2 advancements
-[19:25:19] [Server thread/INFO] (Minecraft) [Player613: success]
-[19:25:19] [Render thread/INFO] (Minecraft) [System] [CHAT] success
-[19:25:21] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[19:25:21] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
-[19:25:21] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
-[19:25:21] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
-[19:25:25] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:b1含有以下内容：{}
-[19:25:31] [Server thread/INFO] (Minecraft) [Player613: success]
-[19:25:31] [Render thread/INFO] (Minecraft) [System] [CHAT] success
-[19:25:33] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:b1含有以下内容：{}
-[19:25:35] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:a1含有以下内容：{b2: '["w","3","2"]', a2: ["w", "3", "2"]}
-[19:25:49] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[19:25:49] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
-[19:25:49] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
-[19:25:50] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
-[19:26:38] [Render thread/INFO] (Minecraft) Loaded 11 advancements
-[19:26:44] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[19:26:45] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Redefined 2 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 87.06 ms
-[19:26:45] [Server thread/INFO] (Minecraft) [Player613: 重新加载中！]
-[19:26:45] [Render thread/INFO] (Minecraft) [System] [CHAT] 重新加载中！
-[19:26:45] [Server thread/INFO] (Minecraft) Loaded 1290 recipes
-[19:26:46] [Server thread/INFO] (Minecraft) Loaded 1399 advancements
-[19:26:46] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[19:26:46] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
-[19:26:46] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
-[19:26:46] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
-[19:26:47] [Server thread/INFO] (Minecraft) Player613 lost connection: 连接中断
-[19:26:47] [Server thread/INFO] (Minecraft) Player613退出了游戏
-[19:26:47] [Server thread/INFO] (Minecraft) Stopping singleplayer server as player logged out
-[19:26:47] [Server thread/INFO] (Minecraft) Stopping server
-[19:26:47] [Server thread/INFO] (Minecraft) Saving players
-[19:26:47] [Server thread/INFO] (Minecraft) Saving worlds
-[19:26:47] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
-[19:26:50] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[19:26:50] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
-[19:26:50] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
-[19:26:50] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (新的世界 (1)): All chunks are saved
-[19:26:50] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:26:50] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:26:50] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage: All dimensions are saved
-[19:26:52] [Render thread/INFO] (Minecraft) Loaded 1290 recipes
-[19:26:52] [Render thread/INFO] (Minecraft) Loaded 1399 advancements
-[19:26:52] [Render thread/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 64 new biomes in 291.1 μs
-[19:26:52] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.21
-[19:26:52] [Server thread/INFO] (Minecraft) Generating keypair
-[19:26:52] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
-[19:26:52] [Render thread/INFO] (Minecraft) 准备生成区域中：0%
-[19:26:52] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
-[19:26:52] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
-[19:26:52] [Render thread/INFO] (Minecraft) Time elapsed: 38 ms
-[19:26:52] [Server thread/INFO] (Minecraft) Player613[local:E:797b42c9] logged in with entity id 133 at (106.22472943182797, -51.58416757334665, -29.67909660339288)
-[19:26:52] [Server thread/INFO] (Minecraft) Player613加入了游戏
-[19:26:53] [Render thread/INFO] (Minecraft) Loaded 11 advancements
-[19:27:19] [Server thread/INFO] (Minecraft) [Player613: success]
-[19:27:19] [Render thread/INFO] (Minecraft) [System] [CHAT] success
-[19:27:20] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:a1含有以下内容：{a2: '["w","3","2"]'}
-[19:27:29] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[19:27:29] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
-[19:27:29] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
-[19:27:29] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
-[19:29:13] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[19:29:14] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
-[19:29:14] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
-[19:29:14] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
-[19:29:18] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[19:29:18] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
-[19:29:18] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
-[19:29:18] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[18:17:33] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/a/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/2af2f021d8e02a0220dc27a7a72b4666d66d44ca/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[18:17:33] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[18:17:33] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
+[18:17:33] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[18:17:36] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[18:17:37] [Datafixer Bootstrap/INFO] (Minecraft) 226 Datafixer optimizations took 382 milliseconds
+[18:17:47] [Render thread/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:17:47] [Render thread/INFO] (Minecraft) Setting user: Player550
+[18:17:47] [Render thread/INFO] (NetworkManagerImpl) Registering C2S receiver with id legacy_command_registry:c2s_get_suggestion
+[18:17:47] [Render thread/INFO] (NetworkManagerImpl) Registering S2C receiver with id legacy_command_registry:s2c_send_key_commands
+[18:17:47] [Render thread/INFO] (NetworkManagerImpl) Registering S2C receiver with id legacy_command_registry:s2c_send_set_commands
+[18:17:48] [Render thread/INFO] (NetworkManagerImpl) Registering S2C receiver with id architectury:spawn_entity_packet
+[18:17:48] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
+[18:17:49] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.3-snapshot
+[18:17:53] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-gametest-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader
+[18:17:53] [Worker-Main-13/INFO] (Minecraft) Found unifont_all_no_pua-15.1.05.hex, loading
+[18:17:53] [Worker-Main-15/INFO] (Minecraft) Found unifont_jp_patch-15.1.05.hex, loading
+[18:17:55] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:item.goat_horn.play
+[18:17:55] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[18:17:55] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on PH27QA2 (NVIDIA High Definition Audio)
+[18:17:55] [Render thread/INFO] (Minecraft) Sound engine started
+[18:17:55] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[18:17:55] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[18:17:55] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[18:17:55] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[18:17:55] [Render thread/INFO] (Minecraft) Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[18:17:55] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[18:17:55] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[18:17:55] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[18:17:55] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[18:17:56] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[18:17:56] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[18:17:56] [Render thread/INFO] (Minecraft) Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[18:17:56] [Render thread/INFO] (Minecraft) Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[18:17:56] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[18:17:56] [Render thread/WARN] (Minecraft) Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[18:18:30] [Render thread/INFO] (Minecraft) Loaded 1290 recipes
+[18:18:30] [Render thread/INFO] (Minecraft) Loaded 1399 advancements
+[18:18:31] [Render thread/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 64 new biomes in 2.570 ms
+[18:18:31] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.21
+[18:18:31] [Server thread/INFO] (Minecraft) Generating keypair
+[18:18:31] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[18:18:31] [Render thread/INFO] (Minecraft) 准备生成区域中：0%
+[18:18:32] [Render thread/INFO] (Minecraft) 准备生成区域中：61%
+[18:18:32] [Render thread/INFO] (Minecraft) Time elapsed: 603 ms
+[18:18:32] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
+[18:18:32] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
+[18:18:33] [Server thread/INFO] (Minecraft) Player550[local:E:6f4d35d6] logged in with entity id 18 at (96.30000001192093, -55.0, -33.30000001192093)
+[18:18:33] [Server thread/INFO] (Minecraft) Player550加入了游戏
+[18:18:33] [Render thread/INFO] (Minecraft) Loaded 2 advancements
+[18:18:43] [Render thread/INFO] (Minecraft) [System] [CHAT] No Suggestions!
+[18:25:29] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 406295ms or 8125 ticks behind
+[18:25:30] [Render thread/INFO] (Minecraft) [System] [CHAT] java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+[18:25:30] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[18:25:30] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[18:25:30] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[18:25:30] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[18:25:35] [Render thread/INFO] (Minecraft) [System] [CHAT] No Suggestions!
+[18:25:36] [Render thread/INFO] (Minecraft) [System] [CHAT] No Suggestions!
+[18:25:36] [Render thread/INFO] (Minecraft) [System] [CHAT] No Suggestions!
+[18:25:36] [Render thread/INFO] (Minecraft) [System] [CHAT] No Suggestions!
+[18:25:37] [Render thread/INFO] (Minecraft) [System] [CHAT] java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+[18:26:02] [Server thread/INFO] (Minecraft) [Player550: 已修改存储minecraft:aaa]
+[18:26:02] [Render thread/INFO] (Minecraft) [System] [CHAT] 已修改存储minecraft:aaa
+[18:26:04] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[18:26:04] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[18:26:04] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[18:26:04] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[18:30:29] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 259068ms or 5181 ticks behind
+[18:30:29] [Render thread/INFO] (Minecraft) [System] [CHAT] java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+[18:30:29] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[18:30:29] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[18:30:29] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[18:30:29] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[18:30:50] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[18:30:50] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 273.9 ms
+[18:30:55] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[18:30:57] [Render thread/INFO] (Minecraft) [System] [CHAT] No Suggestions!
+[18:33:28] [Render thread/INFO] (Minecraft) [System] [CHAT] java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+[18:33:33] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[18:33:33] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 69.31 ms
+[18:33:38] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[18:33:40] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:33:40] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:33:41] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:33:41] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:33:42] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:33:43] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:33:44] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:33:45] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:33:46] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:33:46] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:35:19] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:35:20] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:36:14] [Render thread/INFO] (Minecraft) [System] [CHAT] No Suggestions!
+[18:39:17] [Render thread/INFO] (Minecraft) [System] [CHAT] 未知或不完整的命令，错误见下
+[18:39:17] [Render thread/INFO] (Minecraft) [System] [CHAT] ...torage aaa<--[此处]
+[18:39:24] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[18:39:24] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[18:39:24] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[18:39:24] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[18:39:39] [Render thread/INFO] (Minecraft) [System] [CHAT] 未知或不完整的命令，错误见下
+[18:39:39] [Render thread/INFO] (Minecraft) [System] [CHAT] ...fy storage<--[此处]
+[18:41:04] [Render thread/INFO] (Minecraft) [System] [CHAT] 未知或不完整的命令，错误见下
+[18:41:04] [Render thread/INFO] (Minecraft) [System] [CHAT] ...torage aaa<--[此处]
+[18:41:34] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[18:41:34] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[18:41:35] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[18:41:35] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[18:41:43] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:41:44] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:41:45] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:41:46] [Render thread/INFO] (Minecraft) [System] [CHAT] No Suggestions!
+[18:41:47] [Render thread/INFO] (Minecraft) [System] [CHAT] No Suggestions!
+[18:41:48] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[18:41:48] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 107.1 ms
+[18:41:49] [Render thread/INFO] (Minecraft) [System] [CHAT] The path of input value.
+[18:41:52] [Render thread/INFO] (Minecraft) [System] [CHAT] The location of input value.
+[18:41:52] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:41:53] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[18:41:54] [Render thread/INFO] (Minecraft) [System] [CHAT] The location of input value.
+[18:41:54] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:41:56] [Render thread/INFO] (Minecraft) [System] [CHAT] The location of input value.
+[18:41:56] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:41:57] [Render thread/INFO] (Minecraft) [System] [CHAT] The path of input value.
+[18:41:58] [Render thread/INFO] (Minecraft) [System] [CHAT] The path of input value.
+[18:42:00] [Render thread/INFO] (Minecraft) [System] [CHAT] The location of input value.
+[18:42:00] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:42:15] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[18:42:15] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[18:42:15] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[18:42:15] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[18:44:21] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 120836ms or 2416 ticks behind
+[18:44:21] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[18:44:21] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[18:44:21] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[18:44:21] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[18:44:34] [Render thread/INFO] (Minecraft) [System] [CHAT] 无变化，所指定的属性已有这些值
+[18:44:40] [Server thread/INFO] (Minecraft) [Player550: 已修改存储minecraft:aaa]
+[18:44:40] [Render thread/INFO] (Minecraft) [System] [CHAT] 已修改存储minecraft:aaa
+[18:50:51] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 366321ms or 7326 ticks behind
+[18:50:52] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[18:50:54] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[18:50:56] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[18:50:56] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[18:54:50] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[18:54:51] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 854.5 ms
+[18:54:56] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[18:55:00] [Render thread/INFO] (Minecraft) [System] [CHAT] The §2path§f of §2input§f value.
+[18:55:01] [Render thread/INFO] (Minecraft) [System] [CHAT] The §2path§f of §2input§f value.
+[18:55:05] [Render thread/INFO] (Minecraft) [System] [CHAT] The §2location§f of §2input§f value.
+[18:55:05] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:55:08] [Render thread/INFO] (Minecraft) [System] [CHAT] The §2path§f of §2input§f value.
+[18:55:09] [Render thread/INFO] (Minecraft) [System] [CHAT] The §2path§f of §2input§f value.
+[18:55:09] [Render thread/INFO] (Minecraft) [System] [CHAT] The §2path§f of §2input§f value.
+[18:55:09] [Render thread/INFO] (Minecraft) [System] [CHAT] The §2path§f of §2input§f value.
+[18:55:10] [Render thread/INFO] (Minecraft) [System] [CHAT] The §2path§f of §2input§f value.
+[18:55:10] [Render thread/INFO] (Minecraft) [System] [CHAT] The §2path§f of §2input§f value.
+[18:55:13] [Render thread/INFO] (Minecraft) [System] [CHAT] The §2location§f of §2output§f value.
+[18:55:13] [Render thread/INFO] (Minecraft) [System] [CHAT] minecraft:a1 minecraft:aaa 
+[18:55:16] [Render thread/INFO] (Minecraft) [System] [CHAT] The §2path§f of §2output§f value.
+[18:55:17] [Render thread/INFO] (Minecraft) [System] [CHAT] The §2path§f of §2output§f value.
+[18:55:17] [Render thread/INFO] (Minecraft) [System] [CHAT] The §2path§f of §2output§f value.
+[18:55:18] [Render thread/INFO] (Minecraft) [System] [CHAT] The §2path§f of §2output§f value.
+[18:55:18] [Render thread/INFO] (Minecraft) [System] [CHAT] The §2path§f of §2output§f value.
+[18:55:18] [Render thread/INFO] (Minecraft) [System] [CHAT] The §2path§f of §2output§f value.
+[18:55:19] [Render thread/INFO] (Minecraft) [System] [CHAT] The §2path§f of §2output§f value.
+[18:55:53] [Render thread/INFO] (Minecraft) [System] [CHAT] No Suggestions!
+[18:55:54] [Render thread/INFO] (Minecraft) [System] [CHAT] The §2path§f of §2output§f value.
+[18:55:55] [Render thread/INFO] (Minecraft) [System] [CHAT] No Suggestions!
+[18:56:05] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[18:56:05] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[18:56:05] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[18:56:06] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[18:57:39] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[18:57:39] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 119.6 ms
+[18:57:44] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[18:58:43] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[18:58:43] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 38.23 ms
+[18:58:49] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[18:58:58] [Render thread/INFO] (Minecraft) [System] [CHAT] java.lang.RuntimeException: Incorrect Command Usage
+[18:59:00] [Render thread/INFO] (Minecraft) [System] [CHAT] 没有与aaa相匹配的元素
+[18:59:12] [Render thread/INFO] (Minecraft) [System] [CHAT] java.lang.RuntimeException: Incorrect Command Usage
+[18:59:28] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[18:59:28] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[18:59:28] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[18:59:28] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[19:04:16] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[19:04:16] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 72.06 ms
+[19:04:21] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[19:05:56] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 82463ms or 1649 ticks behind
+[19:05:57] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[19:05:57] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[19:05:57] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[19:05:57] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[19:06:59] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 45064ms or 901 ticks behind
+[19:07:09] [Render thread/INFO] (Minecraft) [System] [CHAT] 无变化，所指定的属性已有这些值
+[19:07:09] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[19:07:09] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[19:07:09] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[19:07:09] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:10:01] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 5277ms or 105 ticks behind
+[22:10:16] [Render thread/INFO] (Minecraft) [System] [CHAT] 无变化，所指定的属性已有这些值
+[22:10:19] [Render thread/INFO] (Minecraft) [System] [CHAT] 无变化，所指定的属性已有这些值
+[22:10:21] [Render thread/INFO] (Minecraft) [System] [CHAT] 无变化，所指定的属性已有这些值
+[22:10:21] [Render thread/INFO] (Minecraft) [System] [CHAT] 无变化，所指定的属性已有这些值
+[22:10:22] [Render thread/INFO] (Minecraft) [System] [CHAT] 无变化，所指定的属性已有这些值
+[22:10:23] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[22:10:24] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:10:24] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:10:24] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:14:38] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 161114ms or 3222 ticks behind
+[22:14:38] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[22:14:39] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:14:39] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:14:39] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:14:43] [Render thread/INFO] (Minecraft) [System] [CHAT] 无变化，所指定的属性已有这些值
+[22:14:45] [Server thread/INFO] (Minecraft) [Player550: 已修改存储minecraft:aaa]
+[22:14:45] [Render thread/INFO] (Minecraft) [System] [CHAT] 已修改存储minecraft:aaa
+[22:14:52] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[22:14:52] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:14:52] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:14:52] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:15:19] [Server thread/INFO] (Minecraft) [Player550: 已修改存储minecraft:aaa]
+[22:15:19] [Render thread/INFO] (Minecraft) [System] [CHAT] 已修改存储minecraft:aaa
+[22:15:20] [Render thread/INFO] (Minecraft) [System] [CHAT] 无变化，所指定的属性已有这些值
+[22:15:22] [Server thread/INFO] (Minecraft) [Player550: 已修改存储minecraft:aaa]
+[22:15:22] [Render thread/INFO] (Minecraft) [System] [CHAT] 已修改存储minecraft:aaa
+[22:15:25] [Server thread/INFO] (Minecraft) [Player550: 已修改存储minecraft:aaa]
+[22:15:25] [Render thread/INFO] (Minecraft) [System] [CHAT] 已修改存储minecraft:aaa
+[22:18:08] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[22:18:08] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:18:08] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:18:08] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:18:09] [Server thread/INFO] (Minecraft) Player550 lost connection: 连接中断
+[22:18:09] [Server thread/INFO] (Minecraft) Player550退出了游戏
+[22:18:09] [Server thread/INFO] (Minecraft) Stopping singleplayer server as player logged out
+[22:18:09] [Server thread/INFO] (Minecraft) Stopping server
+[22:18:09] [Server thread/INFO] (Minecraft) Saving players
+[22:18:09] [Server thread/INFO] (Minecraft) Saving worlds
+[22:18:09] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:18:11] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:18:11] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:18:11] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (新的世界 (1)): All chunks are saved
+[22:18:11] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:18:11] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:18:11] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage: All dimensions are saved
+[22:18:15] [Render thread/INFO] (Minecraft) Loaded 1290 recipes
+[22:18:15] [Render thread/INFO] (Minecraft) Loaded 1399 advancements
+[22:18:16] [Render thread/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 64 new biomes in 354.0 μs
+[22:18:16] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.21
+[22:18:16] [Server thread/INFO] (Minecraft) Generating keypair
+[22:18:16] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[22:18:16] [Render thread/INFO] (Minecraft) 准备生成区域中：0%
+[22:18:16] [Render thread/INFO] (Minecraft) Time elapsed: 370 ms
+[22:18:17] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
+[22:18:17] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
+[22:18:17] [Server thread/INFO] (Minecraft) Player550[local:E:dda2474a] logged in with entity id 245 at (98.87715100879889, -53.86466579486423, -30.68913654640523)
+[22:18:17] [Server thread/INFO] (Minecraft) Player550加入了游戏
+[22:18:18] [Render thread/INFO] (Minecraft) Loaded 2 advancements
+[22:18:26] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:e含有以下内容：{}
+[22:18:47] [Server thread/INFO] (Minecraft) [Player550: 已修改存储minecraft:test1]
+[22:18:47] [Render thread/INFO] (Minecraft) [System] [CHAT] 已修改存储minecraft:test1
+[22:18:49] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[22:18:49] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:18:49] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:18:49] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:23:49] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[22:23:49] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 87.75 ms
+[22:23:54] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[22:24:00] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[22:24:00] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:24:00] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:24:00] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:24:05] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
+[22:24:05] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[22:24:05] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:24:05] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:24:05] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:24:14] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:aaa含有以下内容：{bba: {ccc: "ddd"}, ccc: '"ccc"', bbb: "ccc"}
+[22:24:23] [Render thread/INFO] (Minecraft) [System] [CHAT] No Suggestions!
+[22:24:25] [Render thread/INFO] (Minecraft) [System] [CHAT] No Suggestions!
+[22:24:37] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:aaa含有以下内容：{bba: {ccc: "ddd"}, cca: '"ccc"', ccc: '"ccc"', bbb: "ccc"}
+[22:24:51] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:aaa含有以下内容：{bba: '"ccc"', cca: '"ccc"', ccc: '"ccc"', bbb: "ccc"}
+[22:25:08] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[22:25:08] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:25:08] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:25:08] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:28:30] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:aaa含有以下内容：{bba: '"ccc"', cca: '"ccc"', ccc: '"ccc"', bbb: "ccc"}
+[22:28:30] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[22:28:31] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 49.69 ms
+[22:28:36] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[22:28:42] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:aaa含有以下内容：{bba: ['"', "c", "c", "c", '"'], cca: '"ccc"', ccc: '"ccc"', bbb: "ccc"}
+[22:29:11] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[22:29:11] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:29:11] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:29:11] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:29:50] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[22:29:50] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 55.16 ms
+[22:29:54] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:aaa含有以下内容：{bba: ["c", "c", "c"], cca: '"ccc"', ccc: '"ccc"', bbb: "ccc"}
+[22:29:55] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:aaa含有以下内容：{bba: ["c", "c", "c"], cca: '"ccc"', ccc: '"ccc"', bbb: "ccc"}
+[22:29:55] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[22:30:05] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:aaa含有以下内容：{bba: "ccc", cca: '"ccc"', ccc: '"ccc"', bbb: "ccc"}
+[22:30:16] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:aaa含有以下内容：{bba: ["c", "c", "c"], cca: '"ccc"', ccc: '"ccc"', bbb: "ccc"}
+[22:30:28] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:aaa含有以下内容：{bba: ["c", "c", "c"], cca: '"ccc"', ccc: '"ccc"', bbb: "ccc"}
+[22:30:39] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:aaa含有以下内容：{bba: ["c", "c", "c"], cca: '"ccc"', ccc: '"ccc"', bbb: "ccc"}
+[22:30:49] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:aaa含有以下内容：{bba: ["c", "c", "c"], cca: '"ccc"', ccc: '"ccc"', bbb: "ccc"}
+[22:30:50] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[22:30:50] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:30:50] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:30:50] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:35:10] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:aaa含有以下内容：{bba: ["c", "c", "c"], cca: '"ccc"', ccc: '"ccc"', bbb: "ccc"}
+[22:37:12] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 120683ms or 2413 ticks behind
+[22:37:12] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[22:37:13] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:37:13] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:37:13] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:38:00] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[22:38:00] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:38:00] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:38:00] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:38:05] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[22:38:06] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:38:06] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:38:06] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:38:36] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[22:38:36] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:38:36] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:38:36] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:42:48] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[22:42:48] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 41.43 ms
+[22:42:53] [Thread-1/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[22:43:13] [Render thread/INFO] (Minecraft) [System] [CHAT] java.lang.Exception: Input tag is NOT a array!
+[22:43:28] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:aaa含有以下内容：{bba: ["c", "c", "c"], cca: "ccc", ccc: '"ccc"', bbb: "ccc"}
+[22:43:42] [Server thread/INFO] (Minecraft) [Player550: 已修改存储minecraft:aaa]
+[22:43:42] [Render thread/INFO] (Minecraft) [System] [CHAT] 已修改存储minecraft:aaa
+[22:43:44] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:aaa含有以下内容：{bba: ["c", "c", "c"], ccc: '"ccc"', bbb: "ccc"}
+[22:43:51] [Server thread/INFO] (Minecraft) [Player550: 已修改存储minecraft:aaa]
+[22:43:51] [Render thread/INFO] (Minecraft) [System] [CHAT] 已修改存储minecraft:aaa
+[22:43:58] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:aaa含有以下内容：{bba: ["c", "c", "c"], cca: "ccc", bbb: "ccc"}
+[22:44:57] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:aaa含有以下内容：{bba: ["c", "c", "c"], cca: "ccc", bbb: "ccc"}
+[22:45:01] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[22:45:01] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:45:01] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:45:01] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:45:25] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[22:45:25] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:45:25] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:45:25] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:47:22] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:aaa含有以下内容：{bba: ["c", "c", "c"], cca: "ccc", bbb: "ccc"}
+[22:47:22] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:aaa含有以下内容：{bba: ["c", "c", "c"], cca: "ccc", bbb: "ccc"}
+[22:47:32] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[22:47:32] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:47:32] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:47:32] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[22:50:37] [Render thread/INFO] (Minecraft) [System] [CHAT] 存储minecraft:aaa含有以下内容：{bba: ["c", "c", "c"], cca: "ccc", bbb: "ccc"}
+[22:50:39] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[22:50:39] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[22:50:39] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[22:50:39] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[23:00:13] [Render thread/INFO] (Minecraft) Stopping!
+[23:00:13] [Server thread/INFO] (Minecraft) Player550 lost connection: 连接中断
+[23:00:13] [Server thread/INFO] (Minecraft) Player550退出了游戏
+[23:00:13] [Server thread/INFO] (Minecraft) Stopping singleplayer server as player logged out
+[23:00:13] [Server thread/INFO] (Minecraft) Stopping server
+[23:00:13] [Server thread/INFO] (Minecraft) Saving players
+[23:00:13] [Server thread/INFO] (Minecraft) Saving worlds
+[23:00:13] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[23:00:14] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[23:00:14] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[23:00:14] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (新的世界 (1)): All chunks are saved
+[23:00:14] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:00:14] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:00:14] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage: All dimensions are saved
