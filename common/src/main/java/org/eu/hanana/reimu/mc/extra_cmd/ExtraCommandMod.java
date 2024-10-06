@@ -6,6 +6,7 @@ import dev.architectury.event.events.common.EntityEvent;
 import net.minecraft.commands.CommandBuildContext;
 import net.minecraft.commands.CommandSourceStack;
 import net.minecraft.commands.Commands;
+import org.eu.hanana.reimu.mc.extra_cmd.commands.PlayerCommand;
 import org.eu.hanana.reimu.mc.extra_cmd.commands.StringCommand;
 import org.eu.hanana.reimu.mc.extra_cmd.network.NetworkRegister;
 import org.eu.hanana.reimu.mc.lcr.CommandManager;
@@ -19,6 +20,7 @@ public class ExtraCommandMod {
             @Override
             public void register(CommandManager commandManager) {
                 commandManager.register(new StringCommand());
+                commandManager.register(new PlayerCommand());
             }
         });
         NetworkRegister.register();
