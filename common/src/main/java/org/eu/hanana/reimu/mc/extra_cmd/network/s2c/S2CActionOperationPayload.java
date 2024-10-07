@@ -1,4 +1,4 @@
-package org.eu.hanana.reimu.mc.extra_cmd.network;
+package org.eu.hanana.reimu.mc.extra_cmd.network.s2c;
 
 import io.netty.buffer.ByteBuf;
 import net.minecraft.network.codec.ByteBufCodecs;
@@ -8,24 +8,24 @@ import net.minecraft.resources.ResourceLocation;
 import org.eu.hanana.reimu.mc.lcr.LCRMod;
 
 
-public record S2CWindowOperationPayload(String operation,String data) implements CustomPacketPayload {
+public record S2CActionOperationPayload(String operation, String data) implements CustomPacketPayload {
 
-    public static final CustomPacketPayload.Type<S2CWindowOperationPayload> TYPE = new CustomPacketPayload.Type<>(ResourceLocation.fromNamespaceAndPath(LCRMod.MOD_ID, "s2c_window_operation"));
+    public static final Type<S2CActionOperationPayload> TYPE = new Type<>(ResourceLocation.fromNamespaceAndPath(LCRMod.MOD_ID, "s2c_action"));
 
     // Each pair of elements defines the stream codec of the element to encode/decode and the getter for the element to encode
     // 'name' will be encoded and decoded as a string
     // 'age' will be encoded and decoded as an integer
     // The final parameter takes in the previous parameters in the order they are provided to construct the payload object
-    public static final StreamCodec<ByteBuf, S2CWindowOperationPayload> STREAM_CODEC = StreamCodec.composite(
+    public static final StreamCodec<ByteBuf, S2CActionOperationPayload> STREAM_CODEC = StreamCodec.composite(
             ByteBufCodecs.STRING_UTF8,
-            S2CWindowOperationPayload::operation,
+            S2CActionOperationPayload::operation,
             ByteBufCodecs.STRING_UTF8,
-            S2CWindowOperationPayload::data,
-            S2CWindowOperationPayload::new
+            S2CActionOperationPayload::data,
+            S2CActionOperationPayload::new
     );
 
     @Override
-    public CustomPacketPayload.Type<? extends CustomPacketPayload> type() {
+    public Type<? extends CustomPacketPayload> type() {
         return TYPE;
     }
 }

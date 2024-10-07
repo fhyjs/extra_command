@@ -113,80 +113,106 @@
 [Architectury Transformer DEBUG]  - D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_1864232180_v2\net\fabricmc\fabric-api\fabric-resource-loader-v0\1.3.0+56599129d1\fabric-resource-loader-v0-1.3.0+56599129d1.jar
 [Architectury Transformer DEBUG]  - D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_1864232180_v2\net\fabricmc\fabric-api\fabric-sound-api-v1\1.0.23+6573ed8cd1\fabric-sound-api-v1-1.0.23+6573ed8cd1.jar
 [Architectury Transformer DEBUG]  - D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_1864232180_v2\net\fabricmc\fabric-api\fabric-transitive-access-wideners-v1\6.1.0+176f9036d1\fabric-transitive-access-wideners-v1-6.1.0+176f9036d1.jar
-[Architectury Transformer] Read classpath in 1.563 s
+[Architectury Transformer] Read classpath in 1.290 s
 [Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\fabric-like\build\devlibs\extra_command-fabric-like-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\fabric-like\build\devlibs\extra_command-fabric-like-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17610643835454861276.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@1a6e20e2
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@7c0ae213
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@4ca8b1a4
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@3f9c5ea9
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@549e0088
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\fabric-like\build\devlibs\extra_command-fabric-like-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17610643835454861276.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\fabric-like\build\devlibs\extra_command-fabric-like-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\13840443117442130554.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@549e0088
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@7faf6a72
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@7683d1b2
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@2b37a0dd
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@f096f73
+[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\fabric-like\build\devlibs\extra_command-fabric-like-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\13840443117442130554.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/fabriclike/ExampleModFabricLike with maxs=true frames=true
-[Architectury Transformer DEBUG] Closed File Systems for C:\Users\a\AppData\Local\Temp\17610643835454861276.jar
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\a\AppData\Local\Temp\13840443117442130554.jar
 [Architectury Transformer] Listening at D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\fabric-like\build\devlibs\extra_command-fabric-like-1.0.0-dev.jar
 [Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@2a7087a8
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@4ef5094d
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@248dfd53
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@59c69659
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@7725070e
+[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationPayload with maxs=true frames=true
 [Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
-[Architectury Transformer DEBUG] Closed File Systems for C:\Users\a\AppData\Local\Temp\17549310853688075441.jar
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\a\AppData\Local\Temp\11371501284317982479.jar
 [Architectury Transformer] Listening at D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Temporary jar [C:\Users\a\AppData\Local\Temp\17610643835454861276.jar] contains packages: org.eu.hanana.reimu.mc.extra_cmd.fabriclike
+[Architectury Transformer DEBUG] Temporary jar [C:\Users\a\AppData\Local\Temp\13840443117442130554.jar] contains packages: org.eu.hanana.reimu.mc.extra_cmd.fabriclike
 [Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\fabric-like\build\devlibs\extra_command-fabric-like-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Temporary jar [C:\Users\a\AppData\Local\Temp\17549310853688075441.jar] contains packages: org.eu.hanana.reimu.mc.extra_cmd, org.eu.hanana.reimu.mc.extra_cmd.commands, org.eu.hanana.reimu.mc.extra_cmd.network
+[Architectury Transformer DEBUG] Temporary jar [C:\Users\a\AppData\Local\Temp\11371501284317982479.jar] contains packages: org.eu.hanana.reimu.mc.extra_cmd, org.eu.hanana.reimu.mc.extra_cmd.commands, org.eu.hanana.reimu.mc.extra_cmd.network.s2c, org.eu.hanana.reimu.mc.extra_cmd.network
 [Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
 [Architectury Transformer DEBUG] Classpath entry [D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\fabric\build\resources\main] contains packages: 
 [Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/fabriclike/ExampleModFabricLike.class to org/eu/hanana/reimu/mc/extra_cmd/fabriclike/ExampleModFabricLike.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/fabriclike/ExampleModFabricLike with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/fabriclike/ExampleModFabricLike in 1.000 ms
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/fabriclike/ExampleModFabricLike in 829.9 μs
 [Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod in 442.6 μs
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod in 493.7 μs
 [Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 in 642.1 μs
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 in 436.8 μs
 [Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand.class to org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand in 2.924 ms
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand in 2.260 ms
+[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class to org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 1.557 ms
 [Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister.class to org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister in 550.9 μs
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload.class to org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister in 458.1 μs
+[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationPayload.class to org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationPayload.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload in 650.8 μs
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationPayload in 991.0 μs
+[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler in 361.2 μs
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationHandler in 490.8 μs
+[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationPayload.class to org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationPayload.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationPayload in 776.0 μs
+[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler in 345.4 μs
+[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 in 1.764 ms
+[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod in 1.217 ms
+[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class to org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 4.691 ms
 [Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
 [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@2a7087a8
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@4ef5094d
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@248dfd53
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@59c69659
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@7725070e
+[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
@@ -194,94 +220,69 @@
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationPayload with maxs=true frames=true
 [Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
 [Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
-[Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.ExtraCommandMod
-[Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.ExtraCommandMod$1
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod in 685.4 μs
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 in 474.4 μs
+[Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.commands.PlayerCommand
 [Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class to org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 989.2 μs
-[Architectury Transformer] Redefined 2 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 173.6 ms
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 1.370 ms
+[Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 78.03 ms
+[Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
+[Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@2a7087a8
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@4ef5094d
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@248dfd53
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@59c69659
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@7725070e
+[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler in 764.0 μs
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod in 309.3 μs
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand.class to org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand in 1.259 ms
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
+[Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
 [Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 in 765.7 μs
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 in 4.436 ms
 [Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister.class to org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister in 571.8 μs
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload.class to org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister in 4.448 ms
+[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload in 1.300 ms
-[Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
-[Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
-[Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
-[Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/fabriclike/ExampleModFabricLike.class to org/eu/hanana/reimu/mc/extra_cmd/fabriclike/ExampleModFabricLike.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/fabriclike/ExampleModFabricLike with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/fabriclike/ExampleModFabricLike in 2.773 ms
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler in 3.941 ms
 [Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod in 1.482 ms
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 in 1.149 ms
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod in 2.800 ms
 [Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class to org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 2.424 ms
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 6.583 ms
 [Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
 [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@2a7087a8
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@4ef5094d
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@248dfd53
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@59c69659
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@7725070e
+[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
@@ -289,25 +290,32 @@
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationPayload with maxs=true frames=true
 [Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
 [Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
+[Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.network.s2c.S2CActionOperationHandler
 [Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.commands.PlayerCommand
+[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler in 743.3 μs
 [Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class to org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 773.7 μs
-[Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 57.55 ms
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 2.974 ms
+[Architectury Transformer] Redefined 2 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 46.40 ms
 [Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
 [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@2a7087a8
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@4ef5094d
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@248dfd53
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@59c69659
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@7725070e
+[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
@@ -315,168 +323,104 @@
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationPayload with maxs=true frames=true
 [Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
 [Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod in 1.851 ms
 [Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 in 1.090 ms
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class to org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 1.098 ms
-[Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
-[Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
-[Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
-[Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
-[Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.commands.PlayerCommand
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class to org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 544.3 μs
-[Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 50.72 ms
-[Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
-[Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
-[Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
-[Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler in 5.122 ms
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod in 1.854 ms
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 in 1.346 ms
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class to org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 1.929 ms
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 in 7.583 ms
 [Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister.class to org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister in 2.098 ms
-[Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
-[Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister in 1.821 ms
+[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
-[Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
-[Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
-[Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.commands.PlayerCommand
-[Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.network.S2CWindowOperationHandler
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class to org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 682.0 μs
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler in 196.4 μs
-[Architectury Transformer] Redefined 2 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 60.09 ms
-[Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
-[Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
-[Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
-[Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler in 6.795 ms
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler in 1.953 ms
 [Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod in 1.289 ms
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 in 857.1 μs
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod in 1.358 ms
 [Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class to org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 1.732 ms
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 2.783 ms
+[Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
+[Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@2a7087a8
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@4ef5094d
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@248dfd53
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@59c69659
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@7725070e
+[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
+[Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
+[Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.network.s2c.S2CActionOperationHandler
+[Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.commands.PlayerCommand
+[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler in 1.071 ms
+[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class to org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 1.925 ms
+[Architectury Transformer] Redefined 2 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 42.80 ms
+[Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
+[Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@2a7087a8
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@4ef5094d
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@248dfd53
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@59c69659
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@7725070e
+[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
+[Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
 [Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister.class to org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister in 1.141 ms
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister in 2.269 ms
+[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler in 1.108 ms
 [Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
 [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@2a7087a8
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@4ef5094d
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@248dfd53
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@59c69659
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@7725070e
+[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
@@ -484,30 +428,27 @@
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationPayload with maxs=true frames=true
 [Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
 [Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
-[Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.commands.PlayerCommand
-[Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.network.S2CWindowOperationHandler
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class to org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.network.s2c.S2CActionOperationHandler
+[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 504.7 μs
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler in 157.6 μs
-[Architectury Transformer] Redefined 2 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 43.73 ms
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler in 545.1 μs
+[Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 53.30 ms
 [Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
 [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@2a7087a8
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@4ef5094d
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@248dfd53
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@59c69659
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@7725070e
+[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
@@ -515,31 +456,91 @@
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationPayload with maxs=true frames=true
 [Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
 [Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
+[Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
+[Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@2a7087a8
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@4ef5094d
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@248dfd53
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@59c69659
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@7725070e
+[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
+[Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
+[Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.network.s2c.S2CActionOperationHandler
+[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler in 460.6 μs
+[Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 42.96 ms
+[Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
+[Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@2a7087a8
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@4ef5094d
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@248dfd53
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@59c69659
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@7725070e
+[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
+[Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
+[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 in 3.578 ms
+[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister.class to org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister in 2.599 ms
+[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler in 4.968 ms
 [Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod in 2.295 ms
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 in 692.4 μs
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod in 7.737 ms
 [Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class to org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 2.193 ms
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 11.70 ms
 [Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
 [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@2a7087a8
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@4ef5094d
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@248dfd53
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@59c69659
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@7725070e
+[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
@@ -547,25 +548,27 @@
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationPayload with maxs=true frames=true
 [Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
 [Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
 [Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.commands.PlayerCommand
 [Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class to org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 510.9 μs
-[Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 39.49 ms
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 2.486 ms
+[Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 57.42 ms
 [Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
 [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@2a7087a8
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@4ef5094d
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@248dfd53
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@59c69659
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@7725070e
+[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
@@ -573,73 +576,21 @@
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
-[Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
-[Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler in 5.816 ms
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister.class to org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister in 1.480 ms
-[Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
-[Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
-[Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
-[Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
-[Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.network.S2CWindowOperationHandler
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler in 342.9 μs
-[Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 41.55 ms
-[Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
-[Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationPayload with maxs=true frames=true
 [Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
 [Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
 [Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
 [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@2a7087a8
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@4ef5094d
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@248dfd53
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@59c69659
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@7725070e
+[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
@@ -647,30 +598,27 @@
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationPayload with maxs=true frames=true
 [Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
 [Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
-[Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.commands.PlayerCommand
-[Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.network.S2CWindowOperationHandler
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class to org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.network.s2c.S2CActionOperationHandler
+[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 1.043 ms
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler in 337.1 μs
-[Architectury Transformer] Redefined 2 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 136.8 ms
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler in 857.3 μs
+[Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 98.52 ms
 [Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
 [Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@2a7087a8
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@4ef5094d
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@248dfd53
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@59c69659
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@7725070e
+[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\11371501284317982479.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
@@ -678,119 +626,9 @@
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
-[Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
-[Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
-[Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
-[Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
-[Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
-[Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
-[Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.commands.PlayerCommand
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class to org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 624.7 μs
-[Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 123.6 ms
-[Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
-[Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
-[Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
-[Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler.class to org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler in 2.430 ms
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod in 1.051 ms
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class to org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 in 726.7 μs
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class to org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 1.998 ms
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister.class to org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister in 2.103 ms
-[Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
-[Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
-[Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
-[Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
-[Architectury Transformer DEBUG] Redefining org.eu.hanana.reimu.mc.extra_cmd.commands.PlayerCommand
-[Architectury Transformer DEBUG] Transforming from org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class to org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand in 1.449 ms
-[Architectury Transformer] Redefined 1 class(es) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar in 56.65 ms
-[Architectury Transformer DEBUG] Closed File Systems for D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar
-[Architectury Transformer] Detected File Modification at extra_command-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@34049426
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@608e2661
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@388ea36b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5e6ef21a
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@4edbf855
-[Architectury Transformer DEBUG] Transforming from D:\proj\extra_command-1.21-fabric-neoforge-quilt-template\common\build\devlibs\extra_command-common-1.0.0-dev.jar to C:\Users\a\AppData\Local\Temp\17549310853688075441.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing architectury_inject_extra_command_fabric_294ccf35358645e69be8a766c2b01145_6024de8ab58ee45fd2b0a10bbd47b790883ca807c917d0b5c719a8aa590a4a8fextra_commandcommon100devjar/PlatformMethods with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/ExtraCommandMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/PlayerCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/commands/StringCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/NetworkRegister with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationHandler with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/S2CWindowOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CActionOperationPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing org/eu/hanana/reimu/mc/extra_cmd/network/s2c/S2CWindowOperationPayload with maxs=true frames=true
 [Architectury Transformer DEBUG] Checking whether /extra_command.mixins.json is a mixin config.
 [Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
