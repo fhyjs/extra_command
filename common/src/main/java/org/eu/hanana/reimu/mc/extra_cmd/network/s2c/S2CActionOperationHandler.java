@@ -4,7 +4,11 @@ import dev.architectury.networking.NetworkManager;
 import net.minecraft.client.KeyMapping;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.screens.Screen;
+import net.minecraft.client.gui.screens.options.controls.KeyBindsScreen;
+import net.minecraft.network.protocol.game.ClientboundAddEntityPacket;
+import net.minecraft.network.protocol.game.ServerboundUseItemOnPacket;
 import net.minecraft.world.InteractionHand;
+import org.spongepowered.tools.obfuscation.ObfuscationManager;
 
 import java.lang.management.MemoryUsage;
 
@@ -22,6 +26,9 @@ public class S2CActionOperationHandler {
                     player.swing(InteractionHand.MAIN_HAND);
                 }
             }
+        }else if (payload.operation().equals("use")){
+            var player = Minecraft.getInstance().player;
+
         }
     }
 }

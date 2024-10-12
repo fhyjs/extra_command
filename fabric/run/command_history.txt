@@ -1,50 +1,50 @@
-/player @s title set wwww
-/player @s title reset
-/give @s minecraft:command_block
-/player @a title
-/player @a size set
-/player @a size set 1920 1080
-/player @a size set 1920 108
-/player @a size set 1920 1080
-/player @a si
-/player @a window_title set w/
-/player @a window_title set \\\
-/player @a window_size set 1920 1080
-/player @a window_size set 1920 108
-/player @a window_size set 1920 1080
-/player @a window_size set_fulled
-/player @a window_size set_windowed
-/player @a window_size set_fulled
-/player @a window_size set_windowed
-/player @a window_size set_fulled
-/player @a window_size set_windowed
-/player @s action jump
-/player @s action jumpw
-/player @s action jump
-/player @s action hotbar
-/player @s action hotbar 1
-/player @s action hotbar 12
-/player @s action hotbar 9
-/player @s action hotbar 1
-/player @s action hotbar 0
-/player @s action hotbar -1
-/player @s action hotbar w
-/player @s action hotbar 0
-/player @s action hotbar 9
-/player @s action hotbar 8
-/player @s action q
-/player @s action jump
-/player @s action throw
-/player @s action throw 0
-/player @s action throw 1
-/player @s action throw 10
-/player @s action throw 444
-/player @s action throw 64
-/player @s action throw 1
-/player @s action throw 222
-/player @s action throw 2222222
-/player @s action throw 222
-/player @s action throw 1
-/player @s action throw
-/player @s action throw 1
-/player @s action throw 122
+/random aaa bbb int_between 0 999w
+/random aaa bbb int_between -90 999
+/data get storage minecraft:aaa
+/string minecraft:aaa aaa minecraft:aaa aaa runascmd
+/toast
+/toast @s
+/toast @s w w w
+/toast @s
+/debug start
+/toast @s
+/debug stop
+/reload
+/toast @s
+/toast @s w w w
+/toast @s w w
+/toast @s w w w
+/toast @s ""
+/toast @s "" "
+/toast @s "" ""
+/toast @s "" "" ""
+/toast @s "" {"text":""} {}
+/toast @s "" {"text":""} {"text":""}
+/toast @s "" {"text":""} {"text":""} w
+/toast @s "" {"text":""} {"text":""} w w
+/toast @s "" {"text":""} {"text":""}
+/toast @s "" {"text":"5555"} {"text":"555"}
+/toast @s "" {"text":"5555"} {"text":"555",}
+/toast @s "" {"text":"5555"} {"text":"555","color":"refd"}
+/toast @s "" {"text":"5555"} {"text":"555","color":"red"}
+/toast @s "" {"text":"5555","color":"green"} {"text":"555","color":"red"}
+/toast @s {"text":"5555","color":"green"} {"text":"555","color":"red"}
+/toast @s
+/toast @s clear_all
+/toast @s show_tutorial
+/toast @s show_tutorial {"text":"5555","color":"green"} {"text":"555","color":"red"}
+/toast @s show_tutorial {"text":"5555","color":"green"} {"text":"555","color":"red"} w
+/toast @s show_tutorial {"text":"5555","color":"green"} {"text":"555","color":"red"}
+/toast @s show_tutorial {"text":"5555","color":"green"} {"text":"555","color":"red"} social_interactions
+/toast @s show_tutorial {"text":"5555","color":"green"} {"text":"555","color":"red"} toast/social_interactions
+/toast @s show_tutorial {"text":"5555","color":"green"} {"text":"555","color":"red"} ../book
+/toast @s show_tutorial {"text":"5555","color":"green"} {"text":"555","color":"red"} icon/trial_available
+/toast @s clear_all
+/toast @s show_tutorial {"text":"5555","color":"green"} {"text":"555","color":"red"} icon/trial_available
+/toast @s clear_all
+/toast @s show_tutorial {"text":"5555","color":"green"} {"text":"555","color":"red"} icon/trial_available
+/toast @s clear_all
+/toast @s show_tutorial {"text":"5555","color":"green"} {"text":"555","color":"red"} icon/trial_available
+/toast @s clear_all
+/toast @s show_tutorial {"text":"5555","color":"green"} {"text":"555","color":"red"} icon/trial_available
+/toast @s clear_all

@@ -71,6 +71,17 @@ public class PlayerCommand extends CommandBase {
                     NetworkManager.sendToPlayer(serverPlayer,new S2CActionOperationPayload("throw",args[4]));
                 }
             }
+            /*
+            else if (args[3].equals("use")) {
+                for (ServerPlayer serverPlayer : playerList) {
+                    NetworkManager.sendToPlayer(serverPlayer,new S2CActionOperationPayload("use",""));
+                }
+            }else if (args[3].equals("front")) {
+                for (ServerPlayer serverPlayer : playerList) {
+                    serverPlayer.
+                }
+            }
+             */
         }
         return playerList.size();
     }
